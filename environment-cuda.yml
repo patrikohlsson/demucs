@@ -10,6 +10,7 @@ dependencies:
   - pytorch>=1.8.1
   - torchaudio>=0.8
   - cudatoolkit>=10
+  - numpy<2
   - tqdm>=4.36
   - pip
   - pip:
